@@ -1,2 +1,2 @@
-# UpdateTest2
-test update
+# UpdateTest
+测试Qt远程更新
